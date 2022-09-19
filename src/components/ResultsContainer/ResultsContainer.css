@@ -1,0 +1,8 @@
+.results-container{
+    display: flex;
+    justify-content: center;
+    color: blue;
+    flex-wrap: wrap;
+    padding: 20px 40px;
+
+}
